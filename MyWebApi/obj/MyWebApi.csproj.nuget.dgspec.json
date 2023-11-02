@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Speed\\coreapps\\MyWebApi\\MyWebApi.csproj": {}
+    "c:\\Users\\Speed\\coreapps\\MyWebApi\\MyWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Speed\\coreapps\\MyWebApi\\MyWebApi.csproj": {
+    "c:\\Users\\Speed\\coreapps\\MyWebApi\\MyWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Speed\\coreapps\\MyWebApi\\MyWebApi.csproj",
+        "projectUniqueName": "c:\\Users\\Speed\\coreapps\\MyWebApi\\MyWebApi.csproj",
         "projectName": "MyWebApi",
-        "projectPath": "C:\\Users\\Speed\\coreapps\\MyWebApi\\MyWebApi.csproj",
+        "projectPath": "c:\\Users\\Speed\\coreapps\\MyWebApi\\MyWebApi.csproj",
         "packagesPath": "C:\\Users\\Speed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Speed\\coreapps\\MyWebApi\\obj\\",
+        "outputPath": "c:\\Users\\Speed\\coreapps\\MyWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
